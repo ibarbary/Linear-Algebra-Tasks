@@ -1,6 +1,6 @@
 # Linear-Algebra-Tasks
 1) Linear System Solver
-- Created a python program that solves linear systems of equations of different sizes (e.g., 2x2, 3x3) using the Gauss-Jordan Elimination method
+- Created a python program that solves linear systems of different sizes (e.g., 2x2, 3x3) using the Gauss-Jordan Elimination method
 - Added multiple test cases to handle input errors, making it more efficient and robust
 - Handled different types of solutions, such as unique solution, infinite solution, and no solution
 
